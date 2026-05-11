@@ -23,6 +23,9 @@ Main Insights
 - The hospital is only collecting 31% of the money they bill. This is a big problem.
 - 26% of patients are not showing up for their appointments.
 - Doctor Sarah handled the most appointments.
+- Highest patient registrations happened in : April
+- Patients Gender : 62% male while  38% female
+- Highest appoinment Month : September 
 - Most patients use Insurance, but collection from insurance is poor.
 
 My Business Recommendations
