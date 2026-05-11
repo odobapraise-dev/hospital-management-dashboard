@@ -25,6 +25,7 @@ Main Insights
 - Doctor Sarah handled the most appointments.
 - Highest patient registrations happened in : April
 - Patients Gender : 62% male while  38% female
+- Most patients visited the hospital for Consultation
 - Highest appoinment Month : September 
 - Most patients use Insurance, but collection from insurance is poor.
 
